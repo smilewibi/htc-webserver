@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_Recordset4" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_almughny" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_alquddus" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_alwahhab" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_annashir" value="name:No;datatype:int,name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_Recordset5" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_arrazaaq" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_assalam" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+	<infoitem key="UD_Alkholiq" value="name:Nama;datatype:string,name:Absensi;datatype:string,name:Date;datatype:string,name:Time;datatype:string" />
+</info>
